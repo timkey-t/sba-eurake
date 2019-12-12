@@ -6,7 +6,6 @@
         <groupId>com.timkey</groupId>
         <artifactId>sba-eureka</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.timkey</groupId>
     <artifactId>eureka-client-two</artifactId>
